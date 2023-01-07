@@ -1,14 +1,3 @@
-# 🚀 Sobre mim 
-<h4>
-
-Meu nome é Renan Paes e tenho 30 anos. Sou apaixonado por tecnologia e recentemente decidi mudar minha carreira para a área de TI para poder explorar essa paixão ainda mais. Atualmente, trabalho com entrega por aplicativo no Rio de Janeiro, mas estou determinado a mudar minha realidade através do código.
-
-Como parte dessa jornada, estou me especializando em Javascript e aplicando meus conhecimentos em um portfolio. Além disso, estou aprendendo sobre frameworks, bibliotecas e ferramentas para o desenvolvimento web. No segundo semestre de 2023, planejo começar a faculdade de Análise e Desenvolvimento de Sistemas para aprimorar ainda mais minhas habilidades.
-
-Se você está procurando por um júnior altamente motivado e focado em front-end, gostaria de me candidatar para uma entrevista. Eu sou determinado, esforçado e estou ansioso por uma oportunidade de mostrar meu verdadeiro potencial. Acredito que, com minha paixão pelo código e minha determinação, posso ser um excelente candidato para sua equipe.</h4>
-
-<br><br>
-
 [![netlify](https://img.shields.io/website?label=projetomp3.netlify.app&style=for-the-badge&url=https://projetomp3.netlify.app )](https://projetomp3.netlify.app) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renan.paes/) [![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanpaes92/)
 
 <br>
@@ -53,6 +42,16 @@ Se você está procurando por um júnior altamente motivado e focado em front-en
 ## Últimos projetos:
 
 - [Criando um MP3 - Javascript](https://projetomp3.netlify.app)
+<br>
+ # 🚀 Sobre mim 
+<h4>
+Meu nome é Renan Paes e tenho 30 anos. Sou apaixonado por tecnologia e recentemente decidi mudar minha carreira para a área de TI para poder explorar essa paixão ainda mais. Atualmente, trabalho com entrega por aplicativo no Rio de Janeiro, mas estou determinado a mudar minha realidade através do código.
+
+Como parte dessa jornada, estou me especializando em Javascript e aplicando meus conhecimentos em um portfolio. Além disso, estou aprendendo sobre frameworks, bibliotecas e ferramentas para o desenvolvimento web. No segundo semestre de 2023, planejo começar a faculdade de Análise e Desenvolvimento de Sistemas para aprimorar ainda mais minhas habilidades.
+
+Se você está procurando por um júnior altamente motivado e focado em front-end, gostaria de me candidatar para uma entrevista. Eu sou determinado, esforçado e estou ansioso por uma oportunidade de mostrar meu verdadeiro potencial. Acredito que, com minha paixão pelo código e minha determinação, posso ser um excelente candidato para sua equipe.</h4>
+
+<br><br>
 
 ## Etiquetas
 
